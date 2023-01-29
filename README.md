@@ -1,2 +1,4 @@
-# simplemvc
-Simple PHP MVC web framework
+# bettemvc
+A small PHP MVC web framework
+
+The work "Bette" is a Jutlandish dialect work for small.

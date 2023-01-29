@@ -1,0 +1,19 @@
+{
+    "type": "project",
+    "description": "A small web app.",
+    "keywords": [
+        "framework"
+    ],
+    "license": "Flarup",
+    "authors": [
+        {
+            "name": "Kjeld Flarup",
+            "email": "kjeld.flarup@jegkalinux.dk",
+            "homepage": "https://jegkalinux.dk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	     "mobiledetect/mobiledetectlib": "^2.8"
+    }
+}
